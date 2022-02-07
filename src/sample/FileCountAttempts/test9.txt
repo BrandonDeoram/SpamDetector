@@ -1,0 +1,4 @@
+alex: 3
+john: 1
+rom: 3
+tom: 2
